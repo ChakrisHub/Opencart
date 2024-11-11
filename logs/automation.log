@@ -1,0 +1,144 @@
+2024-11-11 12:31:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:31:57 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 12:31:57 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 12:31:58 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 12:31:58 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 12:31:59 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 12:31:59 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 12:32:01 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 12:32:03 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 12:32:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:37:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:39:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:40:00 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 12:40:00 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 12:40:01 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 12:40:01 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 12:40:04 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 12:40:04 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 12:40:06 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 12:40:07 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 12:41:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:41:39 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 12:41:39 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 12:41:39 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 12:41:39 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 12:41:40 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 12:41:40 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 12:41:43 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 12:41:44 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 12:42:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:54:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:54:51 INFO  TC001_AccountRegistrationTest:74 - Connecting to Hub: http://192.168.29.36:4444/wd/hub
+2024-11-11 12:54:54 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 12:54:54 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 12:54:54 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 12:54:54 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 12:54:56 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 12:54:56 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 12:54:56 INFO  TC002_LoginTest:74 - Connecting to Hub: http://192.168.29.36:4444/wd/hub
+2024-11-11 12:54:58 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 12:54:59 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 12:56:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:56:14 INFO  TC001_AccountRegistrationTest:74 - Connecting to Hub: http://192.168.29.36:4444/
+2024-11-11 12:56:17 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 12:56:17 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 12:56:17 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 12:56:17 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 12:56:19 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 12:56:19 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 12:56:19 INFO  TC002_LoginTest:74 - Connecting to Hub: http://192.168.29.36:4444/
+2024-11-11 12:56:21 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 12:56:22 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 12:56:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 12:56:47 INFO  TC001_AccountRegistrationTest:74 - Connecting to Hub: http://192.168.29.36:4444/
+2024-11-11 12:56:50 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 12:56:50 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 12:56:51 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 12:56:51 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 12:56:52 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 12:56:52 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 12:56:52 INFO  TC002_LoginTest:74 - Connecting to Hub: http://192.168.29.36:4444/
+2024-11-11 12:56:54 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 12:56:55 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 15:54:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 15:54:45 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 16:00:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:00:15 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 16:01:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:01:06 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 16:05:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:05:19 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 16:05:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:06:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:07:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:08:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:08:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\biyya\eclipse-workspace\Opencart\master.xml
+
+2024-11-11 16:08:58 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 16:08:58 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 16:08:58 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 16:08:58 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 16:09:00 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 16:09:00 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 16:09:02 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 16:09:04 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 16:51:26 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 16:51:26 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 16:51:26 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 16:51:26 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 16:51:28 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 16:51:28 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 16:51:30 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 16:51:31 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 17:05:17 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 17:05:17 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 17:05:17 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 17:05:17 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 17:05:19 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 17:05:19 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 17:05:21 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 17:05:22 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
+2024-11-11 17:54:48 INFO  TC001_AccountRegistrationTest:16 - *** TC001_AccountRegistrationTest Started ***
+2024-11-11 17:54:48 INFO  TC001_AccountRegistrationTest:20 - *clicked on myaccount*
+2024-11-11 17:54:49 INFO  TC001_AccountRegistrationTest:22 - *clicked on register*
+2024-11-11 17:54:49 INFO  TC001_AccountRegistrationTest:25 - Providing Customer Details
+2024-11-11 17:54:50 INFO  TC001_AccountRegistrationTest:35 - validating expected message
+2024-11-11 17:54:50 INFO  TC001_AccountRegistrationTest:49 - *** TC001_AccountRegistrationTest Finished ***
+2024-11-11 17:54:52 INFO  TC002_LoginTest:16 - *TC002_LoginTest Starting*
+2024-11-11 17:54:53 INFO  TC002_LoginTest:34 - TC002_LoginTest Finished
